@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:hexcolor/hexcolor.dart';
-import 'package:otpverification/screens/homechat.dart';
 import 'package:otpverification/screens/signupscreens/SignUp.dart';
 import 'package:otpverification/screens/signupscreens/otpScreen.dart';
 
